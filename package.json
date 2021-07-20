@@ -17,7 +17,7 @@
     "parse": "^2.8.0",
     "parse-react": "^0.4.2",
     "react": "16.9.0",
-    "react-native": "^0.61.2",
+    "react-native": "^0.62.3",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-image-picker": "^1.1.0",
     "react-native-paystack": "^3.4.0",
